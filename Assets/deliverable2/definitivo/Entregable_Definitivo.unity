@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -201,6 +201,8 @@ PlayableDirector:
     value: {fileID: 1553996037}
   - key: {fileID: 7582551871693421372, guid: 215e1a71bc6141a4e8fc94aa4ea15277, type: 2}
     value: {fileID: 1692384266}
+  - key: {fileID: 6035573706894782671, guid: 215e1a71bc6141a4e8fc94aa4ea15277, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &9692632
@@ -942,6 +944,18 @@ PlayableDirector:
   - key: {fileID: 3906648051010662168, guid: 4748c5a383f0c474eaa77133b0b78903, type: 2}
     value: {fileID: 0}
   - key: {fileID: 7040586029216244539, guid: 4748c5a383f0c474eaa77133b0b78903, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -2777109203191581721, guid: 4748c5a383f0c474eaa77133b0b78903, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 5910407100010375875, guid: 4748c5a383f0c474eaa77133b0b78903, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -4490271016429743038, guid: 4748c5a383f0c474eaa77133b0b78903, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 7484108730337832065, guid: 4748c5a383f0c474eaa77133b0b78903, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 6577396781889056857, guid: 4748c5a383f0c474eaa77133b0b78903, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 16754462044205903, guid: 4748c5a383f0c474eaa77133b0b78903, type: 2}
     value: {fileID: 0}
   m_ExposedReferences:
     m_References:
