@@ -26,7 +26,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/deliverable2/definitivo/Entregable_Definitivo.unity
     guid: 2928c94c623116b4baad73d2a4c98055
-  - enabled: 1
+  - enabled: 0
     path: Assets/fisicas.unity
     guid: 50f708ead71d9e54786627caf910afbd
+  - enabled: 1
+    path: Assets/entregable3/entregable3.unity
+    guid: 8beafbaf493c66b47a24bd6f183b3eec
   m_configObjects: {}
